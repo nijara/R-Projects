@@ -370,3 +370,5 @@ rowMeans(placementnum[, -6])
 mean(placementnum$salary, na.rm = T)
 median(placementnum$salary, na.rm = T)
 mean(placementnum$salary, trim = 0.10, na.rm = T)
+
+5+10
